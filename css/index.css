@@ -134,6 +134,11 @@ text-align: center;
     flex-direction: row;
 }
 
+.allFurUs {
+    margin: 2%;
+    padding: 3%;
+}
+
 .sidebar {
     width: 30%; /* Set the width of the sidebar */
     z-index: 1; /* Stay on top */
