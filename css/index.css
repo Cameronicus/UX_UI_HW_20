@@ -139,6 +139,15 @@ text-align: center;
     padding: 3%;
 }
 
+.allFurUs h2 {
+    color:#00B9F3;
+}
+
+.caseStudy {
+    display: inline;
+}
+
+
 .sidebar {
     width: 30%; /* Set the width of the sidebar */
     z-index: 1; /* Stay on top */
