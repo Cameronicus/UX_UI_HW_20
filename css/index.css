@@ -134,6 +134,33 @@ text-align: center;
     flex-direction: row;
 }
 
+.allFurUs {
+    margin: 2%;
+    padding: 3%;
+}
+
+.allFurUs h2 {
+    color:#00B9F3;
+}
+
+.caseStudy {
+    display: inline;
+}
+
+.left {
+    width: 15%;
+    z-index: 1;
+    left: 0;
+    overflow-x: hidden;
+}
+
+.right {
+    width: 85%;
+    z-index: 1;
+    right: 0;
+    overflow-x: hidden;
+}
+
 .sidebar {
     width: 30%; /* Set the width of the sidebar */
     z-index: 1; /* Stay on top */
